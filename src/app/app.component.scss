@@ -1,0 +1,130 @@
+
+    .portfolio-btn {
+        color: #ffffff;
+        background: linear-gradient(to right, #fa7c41 0%, #ff6565 100%);
+        border-radius: 30px;
+        padding: 9px 30px;
+    }
+
+    .section-image {
+        width: 80%;
+    }
+
+    .portfolio-section {
+        padding: 40px 0;
+    }
+
+    .btn{
+        padding-left: 0;
+    }
+
+    .portfolio-row {
+        align-items: center;
+    }
+
+    .portfolio-row .col-6 h2 {
+        color: #1e1666;
+        font-size: 35px;
+        font-weight: 500;
+        line-height: 45px;
+        letter-spacing: -0.7px;
+    }
+
+    .portfolio-row .col-6 p {
+        text-align: left;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+
+    .image-section {
+        text-align: center;
+    }
+
+    header {
+        box-shadow: 0 2px 6px #0000001a, 0 1px 2px #0000001a;
+        padding: 10px 0;
+    }
+
+    .header-section {
+        margin: 0 100px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .menu-bar ul .ulli {
+        margin-left: 32px;
+    }
+
+    .menu-bar ul li:hover {
+        color: #e22124;
+        cursor: pointer;
+    }
+
+    .what-we-do .heading h1 {
+        font-size: 80px;
+        font-weight: 800;
+    }
+
+    .what-we-do .heading {
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .what-we-do .content-section .content {
+        /* max-width: 500px; */
+        font-size: 18px;
+    }
+
+    .what-we-do .content-section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 150px;
+    }
+
+    .list-card .card {
+        display: flex;
+        justify-content: center;
+        padding: 20px 15px;
+    }
+
+    .list-card .card .card-title {
+        display: flex;
+        justify-content: center;
+        font-size: 25px;
+    }
+
+    .list-card .card .card-img {
+        display: flex;
+        justify-content: center;
+    }
+    .communication-coversion {
+        /* background: #dedede; */
+        padding: 20px;
+    }
+
+    .communication-coversion .communication-body .communication-card {
+        display: flex;
+        align-items: center;
+    }
+
+    .communication-coversion .communication-body .communication-card .communication-content {
+        margin-left: 15px;
+        max-width: 300px;
+    }
+
+    .communication-coversion .communication-heading {
+        text-align: center;
+        color: #31286b;
+    }
+
+    .communication-coversion .communication-body .communication-card .communication-image img {
+        width: 100px;
+    }
+
+    .marketing .marketing-body .marketing-card-list .marketing-card .marketing-content {
+        text-align: left;
+    }
